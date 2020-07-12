@@ -1,0 +1,23 @@
+.down {
+    transform: rotateX(180deg);
+    -webkit-transform: rotateX(180deg);
+    color: transparent;
+    background: #7D7;
+}
+body {
+	position: relative;
+	text-align: center;
+	background-image: url("https://wallpaperaccess.com/full/333573.jpg");
+	height: 100px;
+}
+input {
+    border: 5px solid black;
+    width: 130px;
+    height:260px;
+}
+
+.front {
+    background-image: url("CARD.PNG");
+    background-size: 110px 250px;
+   
+}

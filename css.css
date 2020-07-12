@@ -1,0 +1,17 @@
+#im{
+	position:relative; 
+	text-align: center;
+
+	font: italic small-caps bold 120px/100px Georgia, serif ;
+}
+.rul{
+	font: italic  bold 15px Georgia, serif ; 
+	
+}
+
+body{
+	position: relative;
+	text-align: center;
+	background-image: url("https://wallpaperaccess.com/full/1152513.jpg");
+	height: 100px;
+	}
