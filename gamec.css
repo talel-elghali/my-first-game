@@ -1,14 +1,16 @@
 .down {
-    transform: rotateX(180deg);
-    -webkit-transform: rotateX(180deg);
+    transform: rotateX(90deg);
+    -webkit-transform: rotateX(90deg);
     color: transparent;
     background: #7D7;
 }
 body {
 	position: relative;
 	text-align: center;
-	background-image: url("https://wallpaperaccess.com/full/333573.jpg");
-	height: 100px;
+	background-image: url("https://i0.wp.com/livewallpaper.info//wp-content/uploads/2015/12/Blue-Background-HD-wallpapers-blue-grundgy-background.jpg?ssl=1");
+	background-size: cover;
+
+	
 }
 input {
     border: 5px solid black;
@@ -16,8 +18,27 @@ input {
     height:260px;
 }
 
+
+
 .front {
     background-image: url("CARD.PNG");
     background-size: 110px 250px;
    
+}
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+.list {
+border: 2px solid black ;
+width: 5px;
+height:5px;
+}
+#values {
+    width: 96vw;
+    height:10vh;
+    border-collapse: collapse;
+    padding: 0;
+    table-layout: fixed;
+    background-color: gray ;
 }
