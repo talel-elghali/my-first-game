@@ -1,16 +1,15 @@
-.down {
-    transform: rotateX(90deg);
-    -webkit-transform: rotateX(90deg);
-    color: transparent;
-    background: #7D7;
+.wel{
+position:relative; 
+text-align: center;
+font: italic small-caps bold 60px/40px Georgia, serif ;
+color : black ;4
+
 }
 body {
 	position: relative;
 	text-align: center;
-	background-image: url("https://i0.wp.com/livewallpaper.info//wp-content/uploads/2015/12/Blue-Background-HD-wallpapers-blue-grundgy-background.jpg?ssl=1");
-	background-size: cover;
-
-	
+	background-image: url("https://media.giphy.com/media/26ufaAfqiUDlOXZQc/giphy.gif");
+	background-size: cover;	
 }
 input {
     border: 5px solid black;
@@ -40,5 +39,5 @@ height:5px;
     border-collapse: collapse;
     padding: 0;
     table-layout: fixed;
-    background-color: gray ;
+    background-color: white ;
 }

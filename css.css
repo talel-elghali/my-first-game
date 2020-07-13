@@ -2,16 +2,17 @@
 #im{ 
 position:relative; 
 text-align: center;
-font: italic small-caps bold 140px/120px Georgia, serif ;
-color : black ;
+font: italic small-caps bold 120px/80px Georgia, serif ;
+color : white ;
 
 }
 body{
-font: italic  bold 30px Georgia, serif ; 
+font: italic  bold 40px Georgia, serif ; 
 position:relative; 
 text-align: center;
-background-image: url("https://i0.wp.com/livewallpaper.info//wp-content/uploads/2015/12/Blue-Background-HD-wallpapers-blue-grundgy-background.jpg?ssl=1");
+background-image: url("https://media.giphy.com/media/26ufaAfqiUDlOXZQc/giphy.gif");
 background-size: cover;
+color: white ;
 }
 .but{
 	border: 0;
@@ -25,5 +26,5 @@ background-size: cover;
     background-color: rgba(220, 0, 0, 1);
     background-image: linear-gradient(to top left,rgba(0, 0, 0, .2),rgba(0, 0, 0, .2) 30%,rgba(0, 0, 0, 0));
     box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
-                inset -2px -2px 3px rgba(0, 0, 0, .6);
 }
+                
